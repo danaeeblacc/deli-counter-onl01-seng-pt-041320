@@ -1,1 +1,5 @@
-def take_a_number(# Write your code here.
+def take_a_number(array)
+  katz_deli = []
+end
+
+# Write your code here.
