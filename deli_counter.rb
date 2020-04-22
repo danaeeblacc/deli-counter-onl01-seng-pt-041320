@@ -1,4 +1,4 @@
-def take_a_number(array)
+def take_a_number(line)
   katz_deli = []
 end
 
